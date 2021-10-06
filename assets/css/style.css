@@ -442,6 +442,8 @@ section .container {
   height: 50px;
   display: block;
   background: none;
+  border-width: 1rem;
+  border: #18d26e;;
 }
 
 .skills .progress .skill {
@@ -457,6 +459,7 @@ section .container {
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
+  color: #18d26e;
 }
 
 .skills .progress-bar-wrap {
